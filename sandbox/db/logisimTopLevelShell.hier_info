@@ -1,0 +1,2210 @@
+|logisimTopLevelShell
+fpgaGlobalClock => logisimTickGenerator:BASE_0.FPGAClock
+fpgaGlobalClock => LogisimClockComponent:clk.globalClock
+n_But_0 => TP34:CIRCUIT_0.logisimInputBubbles[0]
+n_reset_0 => TP34:CIRCUIT_0.logisimInputBubbles[1]
+externalLeds0[0] << LedArrayLedDefault:array0.externalLeds[0]
+externalLeds0[1] << LedArrayLedDefault:array0.externalLeds[1]
+externalLeds0[2] << LedArrayLedDefault:array0.externalLeds[2]
+externalLeds0[3] << LedArrayLedDefault:array0.externalLeds[3]
+externalLeds0[4] << LedArrayLedDefault:array0.externalLeds[4]
+externalLeds0[5] << LedArrayLedDefault:array0.externalLeds[5]
+externalLeds0[6] << LedArrayLedDefault:array0.externalLeds[6]
+externalLeds0[7] << LedArrayLedDefault:array0.externalLeds[7]
+externalLeds0[8] << LedArrayLedDefault:array0.externalLeds[8]
+externalLeds0[9] << LedArrayLedDefault:array0.externalLeds[9]
+externalLeds0[10] << LedArrayLedDefault:array0.externalLeds[10]
+externalLeds0[11] << LedArrayLedDefault:array0.externalLeds[11]
+externalLeds0[12] << LedArrayLedDefault:array0.externalLeds[12]
+externalLeds0[13] << LedArrayLedDefault:array0.externalLeds[13]
+externalLeds0[14] << LedArrayLedDefault:array0.externalLeds[14]
+externalLeds0[15] << LedArrayLedDefault:array0.externalLeds[15]
+externalLeds0[16] << LedArrayLedDefault:array0.externalLeds[16]
+externalLeds0[17] << LedArrayLedDefault:array0.externalLeds[17]
+externalLeds0[18] << LedArrayLedDefault:array0.externalLeds[18]
+externalLeds0[19] << LedArrayLedDefault:array0.externalLeds[19]
+externalLeds0[20] << LedArrayLedDefault:array0.externalLeds[20]
+externalLeds0[21] << LedArrayLedDefault:array0.externalLeds[21]
+externalLeds0[22] << LedArrayLedDefault:array0.externalLeds[22]
+externalLeds0[23] << LedArrayLedDefault:array0.externalLeds[23]
+externalLeds0[24] << LedArrayLedDefault:array0.externalLeds[24]
+externalLeds0[25] << LedArrayLedDefault:array0.externalLeds[25]
+externalLeds0[26] << LedArrayLedDefault:array0.externalLeds[26]
+externalLeds0[27] << LedArrayLedDefault:array0.externalLeds[27]
+externalLeds0[28] << LedArrayLedDefault:array0.externalLeds[28]
+externalLeds0[29] << LedArrayLedDefault:array0.externalLeds[29]
+externalLeds0[30] << LedArrayLedDefault:array0.externalLeds[30]
+externalLeds0[31] << LedArrayLedDefault:array0.externalLeds[31]
+externalLeds0[32] << LedArrayLedDefault:array0.externalLeds[32]
+externalLeds0[33] << LedArrayLedDefault:array0.externalLeds[33]
+externalLeds0[34] << LedArrayLedDefault:array0.externalLeds[34]
+externalLeds0[35] << LedArrayLedDefault:array0.externalLeds[35]
+externalLeds0[36] << LedArrayLedDefault:array0.externalLeds[36]
+externalLeds0[37] << LedArrayLedDefault:array0.externalLeds[37]
+externalLeds0[38] << LedArrayLedDefault:array0.externalLeds[38]
+externalLeds0[39] << LedArrayLedDefault:array0.externalLeds[39]
+externalLeds0[40] << LedArrayLedDefault:array0.externalLeds[40]
+externalLeds0[41] << LedArrayLedDefault:array0.externalLeds[41]
+externalLeds0[42] << LedArrayLedDefault:array0.externalLeds[42]
+externalLeds0[43] << LedArrayLedDefault:array0.externalLeds[43]
+externalLeds0[44] << LedArrayLedDefault:array0.externalLeds[44]
+externalLeds0[45] << LedArrayLedDefault:array0.externalLeds[45]
+externalLeds0[46] << LedArrayLedDefault:array0.externalLeds[46]
+externalLeds0[47] << LedArrayLedDefault:array0.externalLeds[47]
+externalLeds0[48] << LedArrayLedDefault:array0.externalLeds[48]
+externalLeds0[49] << LedArrayLedDefault:array0.externalLeds[49]
+externalLeds0[50] << LedArrayLedDefault:array0.externalLeds[50]
+externalLeds0[51] << LedArrayLedDefault:array0.externalLeds[51]
+externalLeds0[52] << LedArrayLedDefault:array0.externalLeds[52]
+externalLeds0[53] << LedArrayLedDefault:array0.externalLeds[53]
+externalLeds0[54] << LedArrayLedDefault:array0.externalLeds[54]
+externalLeds0[55] << LedArrayLedDefault:array0.externalLeds[55]
+externalLeds0[56] << LedArrayLedDefault:array0.externalLeds[56]
+externalLeds0[57] << LedArrayLedDefault:array0.externalLeds[57]
+externalLeds0[58] << LedArrayLedDefault:array0.externalLeds[58]
+externalLeds0[59] << LedArrayLedDefault:array0.externalLeds[59]
+externalLeds0[60] << LedArrayLedDefault:array0.externalLeds[60]
+externalLeds0[61] << LedArrayLedDefault:array0.externalLeds[61]
+externalLeds0[62] << LedArrayLedDefault:array0.externalLeds[62]
+externalLeds0[63] << LedArrayLedDefault:array0.externalLeds[63]
+externalLeds0[64] << LedArrayLedDefault:array0.externalLeds[64]
+externalLeds0[65] << LedArrayLedDefault:array0.externalLeds[65]
+externalLeds0[66] << LedArrayLedDefault:array0.externalLeds[66]
+externalLeds0[67] << LedArrayLedDefault:array0.externalLeds[67]
+externalLeds0[68] << LedArrayLedDefault:array0.externalLeds[68]
+externalLeds0[69] << LedArrayLedDefault:array0.externalLeds[69]
+externalLeds0[70] << LedArrayLedDefault:array0.externalLeds[70]
+externalLeds0[71] << LedArrayLedDefault:array0.externalLeds[71]
+externalLeds0[72] << LedArrayLedDefault:array0.externalLeds[72]
+externalLeds0[73] << LedArrayLedDefault:array0.externalLeds[73]
+externalLeds0[74] << LedArrayLedDefault:array0.externalLeds[74]
+externalLeds0[75] << LedArrayLedDefault:array0.externalLeds[75]
+externalLeds0[76] << LedArrayLedDefault:array0.externalLeds[76]
+externalLeds0[77] << LedArrayLedDefault:array0.externalLeds[77]
+externalLeds0[78] << LedArrayLedDefault:array0.externalLeds[78]
+externalLeds0[79] << LedArrayLedDefault:array0.externalLeds[79]
+externalLeds0[80] << LedArrayLedDefault:array0.externalLeds[80]
+externalLeds0[81] << LedArrayLedDefault:array0.externalLeds[81]
+externalLeds0[82] << LedArrayLedDefault:array0.externalLeds[82]
+externalLeds0[83] << LedArrayLedDefault:array0.externalLeds[83]
+externalLeds0[84] << LedArrayLedDefault:array0.externalLeds[84]
+externalLeds0[85] << LedArrayLedDefault:array0.externalLeds[85]
+externalLeds0[86] << LedArrayLedDefault:array0.externalLeds[86]
+externalLeds0[87] << LedArrayLedDefault:array0.externalLeds[87]
+externalLeds0[88] << LedArrayLedDefault:array0.externalLeds[88]
+externalLeds0[89] << LedArrayLedDefault:array0.externalLeds[89]
+externalLeds0[90] << LedArrayLedDefault:array0.externalLeds[90]
+externalLeds0[91] << LedArrayLedDefault:array0.externalLeds[91]
+externalLeds0[92] << LedArrayLedDefault:array0.externalLeds[92]
+externalLeds0[93] << LedArrayLedDefault:array0.externalLeds[93]
+externalLeds0[94] << LedArrayLedDefault:array0.externalLeds[94]
+externalLeds0[95] << LedArrayLedDefault:array0.externalLeds[95]
+externalLeds0[96] << LedArrayLedDefault:array0.externalLeds[96]
+externalLeds0[97] << LedArrayLedDefault:array0.externalLeds[97]
+externalLeds0[98] << LedArrayLedDefault:array0.externalLeds[98]
+externalLeds0[99] << LedArrayLedDefault:array0.externalLeds[99]
+externalLeds0[100] << LedArrayLedDefault:array0.externalLeds[100]
+externalLeds0[101] << LedArrayLedDefault:array0.externalLeds[101]
+externalLeds0[102] << LedArrayLedDefault:array0.externalLeds[102]
+externalLeds0[103] << LedArrayLedDefault:array0.externalLeds[103]
+externalLeds0[104] << LedArrayLedDefault:array0.externalLeds[104]
+externalLeds0[105] << LedArrayLedDefault:array0.externalLeds[105]
+externalLeds0[106] << LedArrayLedDefault:array0.externalLeds[106]
+externalLeds0[107] << LedArrayLedDefault:array0.externalLeds[107]
+n_Disp0_DecimalPoint << TP34:CIRCUIT_0.logisimOutputBubbles[15]
+n_Disp0_Segment_A << TP34:CIRCUIT_0.logisimOutputBubbles[8]
+n_Disp0_Segment_B << TP34:CIRCUIT_0.logisimOutputBubbles[9]
+n_Disp0_Segment_C << TP34:CIRCUIT_0.logisimOutputBubbles[10]
+n_Disp0_Segment_D << TP34:CIRCUIT_0.logisimOutputBubbles[11]
+n_Disp0_Segment_E << TP34:CIRCUIT_0.logisimOutputBubbles[12]
+n_Disp0_Segment_F << TP34:CIRCUIT_0.logisimOutputBubbles[13]
+n_Disp0_Segment_G << TP34:CIRCUIT_0.logisimOutputBubbles[14]
+n_Disp1_DecimalPoint << TP34:CIRCUIT_0.logisimOutputBubbles[7]
+n_Disp1_Segment_A << TP34:CIRCUIT_0.logisimOutputBubbles[0]
+n_Disp1_Segment_B << TP34:CIRCUIT_0.logisimOutputBubbles[1]
+n_Disp1_Segment_C << TP34:CIRCUIT_0.logisimOutputBubbles[2]
+n_Disp1_Segment_D << TP34:CIRCUIT_0.logisimOutputBubbles[3]
+n_Disp1_Segment_E << TP34:CIRCUIT_0.logisimOutputBubbles[4]
+n_Disp1_Segment_F << TP34:CIRCUIT_0.logisimOutputBubbles[5]
+n_Disp1_Segment_G << TP34:CIRCUIT_0.logisimOutputBubbles[6]
+n_Disp2_DecimalPoint << TP34:CIRCUIT_0.logisimOutputBubbles[23]
+n_Disp2_Segment_A << TP34:CIRCUIT_0.logisimOutputBubbles[16]
+n_Disp2_Segment_B << TP34:CIRCUIT_0.logisimOutputBubbles[17]
+n_Disp2_Segment_C << TP34:CIRCUIT_0.logisimOutputBubbles[18]
+n_Disp2_Segment_D << TP34:CIRCUIT_0.logisimOutputBubbles[19]
+n_Disp2_Segment_E << TP34:CIRCUIT_0.logisimOutputBubbles[20]
+n_Disp2_Segment_F << TP34:CIRCUIT_0.logisimOutputBubbles[21]
+n_Disp2_Segment_G << TP34:CIRCUIT_0.logisimOutputBubbles[22]
+
+
+|logisimTopLevelShell|logisimTickGenerator:BASE_0
+FPGAClock => s_countReg[0].CLK
+FPGAClock => s_countReg[1].CLK
+FPGAClock => s_countReg[2].CLK
+FPGAClock => s_countReg[3].CLK
+FPGAClock => s_countReg[4].CLK
+FPGAClock => s_countReg[5].CLK
+FPGAClock => s_countReg[6].CLK
+FPGAClock => s_countReg[7].CLK
+FPGAClock => s_countReg[8].CLK
+FPGAClock => s_countReg[9].CLK
+FPGAClock => s_countReg[10].CLK
+FPGAClock => s_countReg[11].CLK
+FPGAClock => s_countReg[12].CLK
+FPGAClock => s_countReg[13].CLK
+FPGAClock => s_countReg[14].CLK
+FPGAClock => s_countReg[15].CLK
+FPGAClock => s_countReg[16].CLK
+FPGAClock => s_countReg[17].CLK
+FPGAClock => s_countReg[18].CLK
+FPGAClock => s_countReg[19].CLK
+FPGAClock => s_countReg[20].CLK
+FPGAClock => s_tickReg.CLK
+FPGATick <= s_tickReg.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|LogisimClockComponent:clk
+clockTick => s_counterValue[0].ENA
+clockTick => s_derivedClock[0].ENA
+globalClock => s_counterValue[0].CLK
+globalClock => s_derivedClock[0].CLK
+globalClock => s_outputRegs[0].CLK
+globalClock => s_outputRegs[1].CLK
+globalClock => s_outputRegs[2].CLK
+globalClock => s_outputRegs[3].CLK
+globalClock => s_bufferRegs[0].CLK
+globalClock => s_bufferRegs[1].CLK
+globalClock => clockBus[4].DATAIN
+clockBus[0] <= s_outputRegs[0].DB_MAX_OUTPUT_PORT_TYPE
+clockBus[1] <= s_outputRegs[1].DB_MAX_OUTPUT_PORT_TYPE
+clockBus[2] <= s_outputRegs[2].DB_MAX_OUTPUT_PORT_TYPE
+clockBus[3] <= s_outputRegs[3].DB_MAX_OUTPUT_PORT_TYPE
+clockBus[4] <= globalClock.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0
+logisimClockTree0[0] => FSM3:finalsm3.logisimClockTree0[0]
+logisimClockTree0[0] => FSM3:finalsm3.clock
+logisimClockTree0[0] => FSM2:finalsm2.clock
+logisimClockTree0[0] => FSM2:finalsm2.logisimClockTree0[0]
+logisimClockTree0[0] => FSM:finalsm1.clock
+logisimClockTree0[0] => FSM:finalsm1.logisimClockTree0[0]
+logisimClockTree0[0] => counter1:counter2.logisimClockTree0[0]
+logisimClockTree0[0] => counter1:counter0.logisimClockTree0[0]
+logisimClockTree0[0] => counter1:counter.logisimClockTree0[0]
+logisimClockTree0[0] => disp_interface:disp0i.logisimClockTree0[0]
+logisimClockTree0[0] => disp_interface:disp2i.logisimClockTree0[0]
+logisimClockTree0[0] => disp_interface:disp1i.logisimClockTree0[0]
+logisimClockTree0[0] => butpressed:butpress.clk
+logisimClockTree0[0] => butpressed:butpress.logisimClockTree0[0]
+logisimClockTree0[0] => tFlip:tFlip_1.clk
+logisimClockTree0[0] => tFlip:tFlip_1.logisimClockTree0[0]
+logisimClockTree0[1] => FSM3:finalsm3.logisimClockTree0[1]
+logisimClockTree0[1] => FSM2:finalsm2.logisimClockTree0[1]
+logisimClockTree0[1] => FSM:finalsm1.logisimClockTree0[1]
+logisimClockTree0[1] => counter1:counter2.logisimClockTree0[1]
+logisimClockTree0[1] => counter1:counter0.logisimClockTree0[1]
+logisimClockTree0[1] => counter1:counter.logisimClockTree0[1]
+logisimClockTree0[1] => disp_interface:disp0i.logisimClockTree0[1]
+logisimClockTree0[1] => disp_interface:disp2i.logisimClockTree0[1]
+logisimClockTree0[1] => disp_interface:disp1i.logisimClockTree0[1]
+logisimClockTree0[1] => butpressed:butpress.logisimClockTree0[1]
+logisimClockTree0[1] => tFlip:tFlip_1.logisimClockTree0[1]
+logisimClockTree0[2] => FSM3:finalsm3.logisimClockTree0[2]
+logisimClockTree0[2] => FSM2:finalsm2.logisimClockTree0[2]
+logisimClockTree0[2] => FSM:finalsm1.logisimClockTree0[2]
+logisimClockTree0[2] => counter1:counter2.logisimClockTree0[2]
+logisimClockTree0[2] => counter1:counter0.logisimClockTree0[2]
+logisimClockTree0[2] => counter1:counter.logisimClockTree0[2]
+logisimClockTree0[2] => disp_interface:disp0i.logisimClockTree0[2]
+logisimClockTree0[2] => disp_interface:disp2i.logisimClockTree0[2]
+logisimClockTree0[2] => disp_interface:disp1i.logisimClockTree0[2]
+logisimClockTree0[2] => butpressed:butpress.logisimClockTree0[2]
+logisimClockTree0[2] => tFlip:tFlip_1.logisimClockTree0[2]
+logisimClockTree0[3] => FSM3:finalsm3.logisimClockTree0[3]
+logisimClockTree0[3] => FSM2:finalsm2.logisimClockTree0[3]
+logisimClockTree0[3] => FSM:finalsm1.logisimClockTree0[3]
+logisimClockTree0[3] => counter1:counter2.logisimClockTree0[3]
+logisimClockTree0[3] => counter1:counter0.logisimClockTree0[3]
+logisimClockTree0[3] => counter1:counter.logisimClockTree0[3]
+logisimClockTree0[3] => disp_interface:disp0i.logisimClockTree0[3]
+logisimClockTree0[3] => disp_interface:disp2i.logisimClockTree0[3]
+logisimClockTree0[3] => disp_interface:disp1i.logisimClockTree0[3]
+logisimClockTree0[3] => butpressed:butpress.logisimClockTree0[3]
+logisimClockTree0[3] => tFlip:tFlip_1.logisimClockTree0[3]
+logisimClockTree0[4] => FSM3:finalsm3.logisimClockTree0[4]
+logisimClockTree0[4] => FSM2:finalsm2.logisimClockTree0[4]
+logisimClockTree0[4] => FSM:finalsm1.logisimClockTree0[4]
+logisimClockTree0[4] => counter1:counter2.logisimClockTree0[4]
+logisimClockTree0[4] => counter1:counter0.logisimClockTree0[4]
+logisimClockTree0[4] => counter1:counter.logisimClockTree0[4]
+logisimClockTree0[4] => disp_interface:disp0i.logisimClockTree0[4]
+logisimClockTree0[4] => disp_interface:disp2i.logisimClockTree0[4]
+logisimClockTree0[4] => disp_interface:disp1i.logisimClockTree0[4]
+logisimClockTree0[4] => butpressed:butpress.logisimClockTree0[4]
+logisimClockTree0[4] => tFlip:tFlip_1.logisimClockTree0[4]
+logisimInputBubbles[0] => butpressed:butpress.set
+logisimInputBubbles[1] => FSM3:finalsm3.reset
+logisimInputBubbles[1] => FSM2:finalsm2.reset
+logisimInputBubbles[1] => FSM:finalsm1.reset
+logisimInputBubbles[1] => butpressed:butpress.reset0
+logisimInputBubbles[1] => tFlip:tFlip_1.res
+logisimOutputBubbles[0] <= disp_interface:disp1i.a_out
+logisimOutputBubbles[1] <= disp_interface:disp1i.b_out
+logisimOutputBubbles[2] <= disp_interface:disp1i.c_out
+logisimOutputBubbles[3] <= disp_interface:disp1i.d_out
+logisimOutputBubbles[4] <= disp_interface:disp1i.e_out
+logisimOutputBubbles[5] <= disp_interface:disp1i.f_out
+logisimOutputBubbles[6] <= disp_interface:disp1i.g_out
+logisimOutputBubbles[7] <= disp_interface:disp1i.p_out
+logisimOutputBubbles[8] <= disp_interface:disp0i.a_out
+logisimOutputBubbles[9] <= disp_interface:disp0i.b_out
+logisimOutputBubbles[10] <= disp_interface:disp0i.c_out
+logisimOutputBubbles[11] <= disp_interface:disp0i.d_out
+logisimOutputBubbles[12] <= disp_interface:disp0i.e_out
+logisimOutputBubbles[13] <= disp_interface:disp0i.f_out
+logisimOutputBubbles[14] <= disp_interface:disp0i.g_out
+logisimOutputBubbles[15] <= disp_interface:disp0i.p_out
+logisimOutputBubbles[16] <= disp_interface:disp2i.a_out
+logisimOutputBubbles[17] <= disp_interface:disp2i.b_out
+logisimOutputBubbles[18] <= disp_interface:disp2i.c_out
+logisimOutputBubbles[19] <= disp_interface:disp2i.d_out
+logisimOutputBubbles[20] <= disp_interface:disp2i.e_out
+logisimOutputBubbles[21] <= disp_interface:disp2i.f_out
+logisimOutputBubbles[22] <= disp_interface:disp2i.g_out
+logisimOutputBubbles[23] <= disp_interface:disp2i.p_out
+logisimOutputBubbles[24] <= FSM2:finalsm2.final[2]
+logisimOutputBubbles[25] <= FSM:finalsm1.outt[2]
+logisimOutputBubbles[26] <= FSM3:finalsm3.fi[2]
+logisimOutputBubbles[27] <= FSM2:finalsm2.final[1]
+logisimOutputBubbles[28] <= FSM:finalsm1.outt[1]
+logisimOutputBubbles[29] <= FSM3:finalsm3.fi[1]
+logisimOutputBubbles[30] <= FSM2:finalsm2.final[0]
+logisimOutputBubbles[31] <= FSM:finalsm1.outt[0]
+logisimOutputBubbles[32] <= FSM3:finalsm3.fi[0]
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|AND_GATE_4_INPUTS:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3
+a[0] => FSMtrans3:transitions3.a[0]
+a[1] => FSMtrans3:transitions3.a[1]
+a[2] => FSMtrans3:transitions3.a[2]
+button => FSMtrans3:transitions3.but
+clock => ~NO_FANOUT~
+fs1 => FSMtrans3:transitions3.fs1
+logisimClockTree0[0] => FSMtrans3:transitions3.logisimClockTree0[0]
+logisimClockTree0[1] => FSMtrans3:transitions3.logisimClockTree0[1]
+logisimClockTree0[2] => D_FLIPFLOP:MEMORY_2.tick
+logisimClockTree0[2] => D_FLIPFLOP:MEMORY_3.tick
+logisimClockTree0[2] => D_FLIPFLOP:MEMORY_4.tick
+logisimClockTree0[2] => FSMtrans3:transitions3.logisimClockTree0[2]
+logisimClockTree0[3] => FSMtrans3:transitions3.logisimClockTree0[3]
+logisimClockTree0[4] => D_FLIPFLOP:MEMORY_2.clock
+logisimClockTree0[4] => D_FLIPFLOP:MEMORY_3.clock
+logisimClockTree0[4] => D_FLIPFLOP:MEMORY_4.clock
+logisimClockTree0[4] => FSMtrans3:transitions3.logisimClockTree0[4]
+reset => D_FLIPFLOP:MEMORY_2.preset
+reset => D_FLIPFLOP:MEMORY_3.preset
+reset => D_FLIPFLOP:MEMORY_4.reset
+fi[0] <= D_FLIPFLOP:MEMORY_2.q
+fi[1] <= D_FLIPFLOP:MEMORY_3.q
+fi[2] <= D_FLIPFLOP:MEMORY_4.q
+zer <= AND_GATE_3_INPUTS:GATES_1.result
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|AND_GATE_3_INPUTS:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|D_FLIPFLOP:MEMORY_2
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|D_FLIPFLOP:MEMORY_3
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|D_FLIPFLOP:MEMORY_4
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3
+a[0] => AND_GATE_3_INPUTS:GATES_1.input2
+a[0] => AND_GATE_7_INPUTS:GATES_10.input3
+a[0] => AND_GATE_3_INPUTS:GATES_11.input1
+a[0] => AND_GATE_3_INPUTS:GATES_15.input2
+a[0] => AND_GATE_3_INPUTS:GATES_22.input1
+a[0] => AND_GATE_6_INPUTS:GATES_23.input3
+a[0] => AND_GATE_3_INPUTS:GATES_26.input2
+a[0] => AND_GATE_7_INPUTS:GATES_34.input3
+a[0] => AND_GATE_8_INPUTS:GATES_35.input3
+a[0] => AND_GATE_3_INPUTS:GATES_36.input2
+a[0] => AND_GATE_7_INPUTS:GATES_2.input3
+a[0] => AND_GATE_6_INPUTS:GATES_3.input3
+a[0] => AND_GATE_3_INPUTS:GATES_4.input1
+a[0] => AND_GATE_8_INPUTS:GATES_16.input3
+a[0] => AND_GATE_5_INPUTS:GATES_17.input3
+a[0] => AND_GATE_3_INPUTS:GATES_18.input2
+a[0] => AND_GATE_7_INPUTS:GATES_27.input3
+a[0] => AND_GATE_3_INPUTS:GATES_28.input2
+a[0] => AND_GATE_3_INPUTS:GATES_29.input1
+a[1] => AND_GATE_7_INPUTS:GATES_2.input2
+a[1] => AND_GATE_6_INPUTS:GATES_3.input2
+a[1] => AND_GATE_3_INPUTS:GATES_12.input2
+a[1] => AND_GATE_4_INPUTS:GATES_13.input1
+a[1] => AND_GATE_8_INPUTS:GATES_16.input2
+a[1] => AND_GATE_3_INPUTS:GATES_24.input2
+a[1] => AND_GATE_4_INPUTS:GATES_25.input1
+a[1] => AND_GATE_7_INPUTS:GATES_27.input2
+a[1] => AND_GATE_3_INPUTS:GATES_36.input1
+a[1] => AND_GATE_3_INPUTS:GATES_7.input1
+a[1] => AND_GATE_3_INPUTS:GATES_9.input1
+a[1] => AND_GATE_7_INPUTS:GATES_10.input2
+a[1] => AND_GATE_3_INPUTS:GATES_14.input2
+a[1] => AND_GATE_5_INPUTS:GATES_17.input2
+a[1] => AND_GATE_3_INPUTS:GATES_18.input1
+a[1] => AND_GATE_3_INPUTS:GATES_21.input1
+a[1] => AND_GATE_6_INPUTS:GATES_23.input2
+a[1] => AND_GATE_3_INPUTS:GATES_28.input1
+a[1] => AND_GATE_3_INPUTS:GATES_32.input1
+a[1] => AND_GATE_7_INPUTS:GATES_34.input2
+a[1] => AND_GATE_8_INPUTS:GATES_35.input2
+a[2] => AND_GATE_3_INPUTS:GATES_1.input1
+a[2] => AND_GATE_7_INPUTS:GATES_2.input1
+a[2] => AND_GATE_6_INPUTS:GATES_3.input1
+a[2] => AND_GATE_3_INPUTS:GATES_14.input1
+a[2] => AND_GATE_3_INPUTS:GATES_15.input1
+a[2] => AND_GATE_8_INPUTS:GATES_16.input1
+a[2] => AND_GATE_3_INPUTS:GATES_26.input1
+a[2] => AND_GATE_7_INPUTS:GATES_27.input1
+a[2] => AND_GATE_3_INPUTS:GATES_37.input1
+a[2] => AND_GATE_7_INPUTS:GATES_10.input1
+a[2] => AND_GATE_3_INPUTS:GATES_12.input1
+a[2] => AND_GATE_5_INPUTS:GATES_17.input1
+a[2] => AND_GATE_6_INPUTS:GATES_23.input1
+a[2] => AND_GATE_3_INPUTS:GATES_24.input1
+a[2] => AND_GATE_3_INPUTS:GATES_31.input1
+a[2] => AND_GATE_7_INPUTS:GATES_34.input1
+a[2] => AND_GATE_8_INPUTS:GATES_35.input1
+b[0] => AND_GATE_6_INPUTS:GATES_3.input4
+b[0] => AND_GATE_3_INPUTS:GATES_7.input3
+b[0] => AND_GATE_3_INPUTS:GATES_8.input3
+b[0] => AND_GATE_7_INPUTS:GATES_10.input5
+b[0] => AND_GATE_3_INPUTS:GATES_18.input3
+b[0] => AND_GATE_3_INPUTS:GATES_19.input2
+b[0] => AND_GATE_4_INPUTS:GATES_20.input2
+b[0] => AND_GATE_3_INPUTS:GATES_21.input2
+b[0] => AND_GATE_3_INPUTS:GATES_22.input2
+b[0] => AND_GATE_3_INPUTS:GATES_24.input3
+b[0] => AND_GATE_4_INPUTS:GATES_25.input3
+b[0] => AND_GATE_3_INPUTS:GATES_26.input3
+b[0] => AND_GATE:GATES_33.input2
+b[0] => AND_GATE_7_INPUTS:GATES_34.input5
+b[0] => AND_GATE_7_INPUTS:GATES_2.input6
+b[0] => AND_GATE_3_INPUTS:GATES_5.input2
+b[0] => AND_GATE_4_INPUTS:GATES_13.input3
+b[0] => AND_GATE_8_INPUTS:GATES_16.input6
+b[0] => AND_GATE_7_INPUTS:GATES_27.input5
+b[0] => AND_GATE_8_INPUTS:GATES_35.input6
+b[1] => AND_GATE_3_INPUTS:GATES_4.input3
+b[1] => AND_GATE_3_INPUTS:GATES_5.input1
+b[1] => AND_GATE_3_INPUTS:GATES_6.input2
+b[1] => AND_GATE_3_INPUTS:GATES_7.input2
+b[1] => AND_GATE_3_INPUTS:GATES_8.input2
+b[1] => AND_GATE_3_INPUTS:GATES_9.input3
+b[1] => AND_GATE_3_INPUTS:GATES_11.input2
+b[1] => AND_GATE_3_INPUTS:GATES_12.input3
+b[1] => AND_GATE_4_INPUTS:GATES_13.input2
+b[1] => AND_GATE_3_INPUTS:GATES_14.input3
+b[1] => AND_GATE_3_INPUTS:GATES_15.input3
+b[1] => AND_GATE_7_INPUTS:GATES_27.input4
+b[1] => AND_GATE_8_INPUTS:GATES_35.input5
+b[1] => AND_GATE_7_INPUTS:GATES_2.input5
+b[1] => AND_GATE_8_INPUTS:GATES_16.input5
+b[1] => AND_GATE_5_INPUTS:GATES_17.input5
+b[1] => AND_GATE_4_INPUTS:GATES_20.input1
+b[1] => AND_GATE_7_INPUTS:GATES_34.input4
+b[2] => AND_GATE_3_INPUTS:GATES_1.input3
+b[2] => AND_GATE_3_INPUTS:GATES_9.input2
+b[2] => AND_GATE_8_INPUTS:GATES_16.input4
+b[2] => AND_GATE_6_INPUTS:GATES_23.input4
+b[2] => AND_GATE_3_INPUTS:GATES_28.input3
+b[2] => AND_GATE_3_INPUTS:GATES_29.input2
+b[2] => AND_GATE:GATES_30.input1
+b[2] => AND_GATE_3_INPUTS:GATES_31.input2
+b[2] => AND_GATE_3_INPUTS:GATES_32.input2
+b[2] => AND_GATE:GATES_33.input1
+b[2] => AND_GATE_3_INPUTS:GATES_36.input3
+b[2] => AND_GATE_3_INPUTS:GATES_37.input2
+b[2] => AND_GATE_7_INPUTS:GATES_2.input4
+b[2] => AND_GATE_3_INPUTS:GATES_4.input2
+b[2] => AND_GATE_3_INPUTS:GATES_6.input1
+b[2] => AND_GATE_3_INPUTS:GATES_8.input1
+b[2] => AND_GATE_7_INPUTS:GATES_10.input4
+b[2] => AND_GATE_5_INPUTS:GATES_17.input4
+b[2] => AND_GATE_3_INPUTS:GATES_19.input1
+b[2] => AND_GATE_4_INPUTS:GATES_25.input2
+b[2] => AND_GATE_8_INPUTS:GATES_35.input4
+but => AND_GATE_6_INPUTS:GATES_3.input6
+but => AND_GATE_3_INPUTS:GATES_6.input3
+but => AND_GATE_8_INPUTS:GATES_16.input8
+but => AND_GATE_3_INPUTS:GATES_21.input3
+but => AND_GATE_7_INPUTS:GATES_27.input7
+but => AND_GATE_3_INPUTS:GATES_31.input3
+but => AND_GATE_3_INPUTS:GATES_32.input3
+but => AND_GATE_7_INPUTS:GATES_10.input7
+but => AND_GATE_4_INPUTS:GATES_13.input4
+but => AND_GATE_4_INPUTS:GATES_20.input4
+but => AND_GATE_6_INPUTS:GATES_23.input6
+but => AND_GATE_4_INPUTS:GATES_25.input4
+but => AND_GATE_3_INPUTS:GATES_29.input3
+but => AND_GATE_7_INPUTS:GATES_34.input7
+but => AND_GATE_8_INPUTS:GATES_35.input8
+but => AND_GATE_3_INPUTS:GATES_37.input3
+fs1 => AND_GATE_7_INPUTS:GATES_2.input7
+fs1 => AND_GATE_6_INPUTS:GATES_3.input5
+fs1 => AND_GATE_7_INPUTS:GATES_10.input6
+fs1 => AND_GATE_8_INPUTS:GATES_16.input7
+fs1 => AND_GATE_6_INPUTS:GATES_23.input5
+fs1 => AND_GATE_7_INPUTS:GATES_27.input6
+fs1 => AND_GATE_7_INPUTS:GATES_34.input6
+fs1 => AND_GATE_8_INPUTS:GATES_35.input7
+fs1 => AND_GATE_3_INPUTS:GATES_5.input3
+fs1 => AND_GATE_3_INPUTS:GATES_11.input3
+fs1 => AND_GATE_3_INPUTS:GATES_19.input3
+fs1 => AND_GATE_4_INPUTS:GATES_20.input3
+fs1 => AND_GATE_3_INPUTS:GATES_22.input3
+fs1 => AND_GATE:GATES_30.input2
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => ~NO_FANOUT~
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => ~NO_FANOUT~
+c[0] <= OR_GATE_11_INPUTS:GATES_38.result
+c[1] <= OR_GATE_13_INPUTS:GATES_39.result
+c[2] <= OR_GATE_13_INPUTS:GATES_40.result
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_7_INPUTS:GATES_2
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_6_INPUTS:GATES_3
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_4
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_5
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_6
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_7
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_8
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_9
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_7_INPUTS:GATES_10
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_11
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_12
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_4_INPUTS:GATES_13
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_14
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_15
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_8_INPUTS:GATES_16
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+input8 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_5_INPUTS:GATES_17
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_18
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_19
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_4_INPUTS:GATES_20
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_21
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_22
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_6_INPUTS:GATES_23
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_24
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_4_INPUTS:GATES_25
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_26
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_7_INPUTS:GATES_27
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_28
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_29
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE:GATES_30
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_31
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_32
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE:GATES_33
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_7_INPUTS:GATES_34
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_8_INPUTS:GATES_35
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+input8 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_36
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|AND_GATE_3_INPUTS:GATES_37
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|OR_GATE_11_INPUTS:GATES_38
+input1 => result.IN0
+input10 => result.IN1
+input11 => result.IN1
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+input8 => result.IN1
+input9 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|OR_GATE_13_INPUTS:GATES_39
+input1 => result.IN0
+input10 => result.IN1
+input11 => result.IN1
+input12 => result.IN1
+input13 => result.IN1
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+input8 => result.IN1
+input9 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM3:finalsm3|FSMtrans3:transitions3|OR_GATE_13_INPUTS:GATES_40
+input1 => result.IN0
+input10 => result.IN1
+input11 => result.IN1
+input12 => result.IN1
+input13 => result.IN1
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+input8 => result.IN1
+input9 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2
+but => FSMtrans2:transitions2.button
+clock => ~NO_FANOUT~
+f1[0] => FSMtrans2:transitions2.a[0]
+f1[1] => FSMtrans2:transitions2.a[1]
+f1[2] => FSMtrans2:transitions2.a[2]
+logisimClockTree0[0] => FSMtrans2:transitions2.logisimClockTree0[0]
+logisimClockTree0[1] => FSMtrans2:transitions2.logisimClockTree0[1]
+logisimClockTree0[2] => D_FLIPFLOP:MEMORY_2.tick
+logisimClockTree0[2] => D_FLIPFLOP:MEMORY_3.tick
+logisimClockTree0[2] => D_FLIPFLOP:MEMORY_4.tick
+logisimClockTree0[2] => FSMtrans2:transitions2.logisimClockTree0[2]
+logisimClockTree0[3] => FSMtrans2:transitions2.logisimClockTree0[3]
+logisimClockTree0[4] => D_FLIPFLOP:MEMORY_2.clock
+logisimClockTree0[4] => D_FLIPFLOP:MEMORY_3.clock
+logisimClockTree0[4] => D_FLIPFLOP:MEMORY_4.clock
+logisimClockTree0[4] => FSMtrans2:transitions2.logisimClockTree0[4]
+reset => D_FLIPFLOP:MEMORY_2.reset
+reset => D_FLIPFLOP:MEMORY_3.reset
+reset => D_FLIPFLOP:MEMORY_4.preset
+deux <= AND_GATE_3_INPUTS:GATES_1.result
+final[0] <= D_FLIPFLOP:MEMORY_2.q
+final[1] <= D_FLIPFLOP:MEMORY_3.q
+final[2] <= D_FLIPFLOP:MEMORY_4.q
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|AND_GATE_3_INPUTS:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|D_FLIPFLOP:MEMORY_2
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|D_FLIPFLOP:MEMORY_3
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|D_FLIPFLOP:MEMORY_4
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2
+a[0] => AND_GATE_6_INPUTS:GATES_8.input3
+a[0] => AND_GATE_3_INPUTS:GATES_9.input1
+a[0] => AND_GATE_3_INPUTS:GATES_17.input1
+a[0] => AND_GATE_5_INPUTS:GATES_18.input3
+a[0] => AND_GATE_3_INPUTS:GATES_20.input2
+a[0] => AND_GATE_3_INPUTS:GATES_21.input2
+a[0] => AND_GATE_6_INPUTS:GATES_26.input3
+a[0] => AND_GATE_7_INPUTS:GATES_27.input3
+a[0] => AND_GATE_3_INPUTS:GATES_28.input1
+a[0] => AND_GATE_3_INPUTS:GATES_31.input2
+a[0] => AND_GATE_5_INPUTS:GATES_1.input3
+a[0] => AND_GATE_3_INPUTS:GATES_2.input2
+a[0] => AND_GATE_7_INPUTS:GATES_12.input3
+a[0] => AND_GATE_5_INPUTS:GATES_13.input3
+a[0] => AND_GATE_3_INPUTS:GATES_14.input2
+a[0] => AND_GATE_3_INPUTS:GATES_15.input2
+a[0] => AND_GATE_6_INPUTS:GATES_22.input3
+a[0] => AND_GATE_3_INPUTS:GATES_23.input2
+a[0] => AND_GATE_6_INPUTS:GATES_32.input3
+a[1] => AND_GATE_5_INPUTS:GATES_1.input2
+a[1] => AND_GATE_3_INPUTS:GATES_10.input2
+a[1] => AND_GATE_7_INPUTS:GATES_12.input2
+a[1] => AND_GATE_3_INPUTS:GATES_19.input1
+a[1] => AND_GATE_3_INPUTS:GATES_20.input1
+a[1] => AND_GATE_6_INPUTS:GATES_22.input2
+a[1] => AND_GATE_3_INPUTS:GATES_29.input2
+a[1] => AND_GATE_6_INPUTS:GATES_32.input2
+a[1] => AND_GATE_3_INPUTS:GATES_2.input1
+a[1] => AND_GATE_3_INPUTS:GATES_4.input1
+a[1] => AND_GATE_6_INPUTS:GATES_8.input2
+a[1] => AND_GATE_5_INPUTS:GATES_13.input2
+a[1] => AND_GATE_3_INPUTS:GATES_15.input1
+a[1] => AND_GATE_3_INPUTS:GATES_16.input1
+a[1] => AND_GATE_5_INPUTS:GATES_18.input2
+a[1] => AND_GATE_3_INPUTS:GATES_24.input1
+a[1] => AND_GATE_6_INPUTS:GATES_26.input2
+a[1] => AND_GATE_7_INPUTS:GATES_27.input2
+a[2] => AND_GATE_5_INPUTS:GATES_1.input1
+a[2] => AND_GATE_3_INPUTS:GATES_11.input1
+a[2] => AND_GATE_7_INPUTS:GATES_12.input1
+a[2] => AND_GATE_3_INPUTS:GATES_21.input1
+a[2] => AND_GATE_6_INPUTS:GATES_22.input1
+a[2] => AND_GATE_3_INPUTS:GATES_30.input1
+a[2] => AND_GATE_3_INPUTS:GATES_31.input1
+a[2] => AND_GATE_6_INPUTS:GATES_32.input1
+a[2] => AND_GATE_3_INPUTS:GATES_3.input1
+a[2] => AND_GATE_3_INPUTS:GATES_7.input1
+a[2] => AND_GATE_6_INPUTS:GATES_8.input1
+a[2] => AND_GATE_3_INPUTS:GATES_10.input1
+a[2] => AND_GATE_5_INPUTS:GATES_13.input1
+a[2] => AND_GATE_3_INPUTS:GATES_14.input1
+a[2] => AND_GATE_5_INPUTS:GATES_18.input1
+a[2] => AND_GATE_3_INPUTS:GATES_23.input1
+a[2] => AND_GATE_6_INPUTS:GATES_26.input1
+a[2] => AND_GATE_7_INPUTS:GATES_27.input1
+a[2] => AND_GATE_3_INPUTS:GATES_29.input1
+b[0] => AND_GATE_5_INPUTS:GATES_1.input4
+b[0] => AND_GATE_3_INPUTS:GATES_6.input2
+b[0] => AND_GATE_6_INPUTS:GATES_8.input5
+b[0] => AND_GATE_3_INPUTS:GATES_14.input3
+b[0] => AND_GATE_3_INPUTS:GATES_15.input3
+b[0] => AND_GATE_3_INPUTS:GATES_16.input2
+b[0] => AND_GATE_3_INPUTS:GATES_17.input2
+b[0] => AND_GATE_3_INPUTS:GATES_19.input2
+b[0] => AND_GATE_3_INPUTS:GATES_20.input3
+b[0] => AND_GATE_3_INPUTS:GATES_21.input3
+b[0] => AND_GATE:GATES_25.input2
+b[0] => AND_GATE_6_INPUTS:GATES_26.input5
+b[0] => AND_GATE_7_INPUTS:GATES_12.input6
+b[0] => AND_GATE_6_INPUTS:GATES_22.input5
+b[0] => AND_GATE_7_INPUTS:GATES_27.input6
+b[1] => AND_GATE_3_INPUTS:GATES_2.input3
+b[1] => AND_GATE_3_INPUTS:GATES_3.input2
+b[1] => AND_GATE_3_INPUTS:GATES_4.input2
+b[1] => AND_GATE_3_INPUTS:GATES_5.input2
+b[1] => AND_GATE_3_INPUTS:GATES_6.input1
+b[1] => AND_GATE_3_INPUTS:GATES_7.input3
+b[1] => AND_GATE_3_INPUTS:GATES_9.input2
+b[1] => AND_GATE_3_INPUTS:GATES_10.input3
+b[1] => AND_GATE_3_INPUTS:GATES_11.input2
+b[1] => AND_GATE_6_INPUTS:GATES_22.input4
+b[1] => AND_GATE_7_INPUTS:GATES_27.input5
+b[1] => AND_GATE_7_INPUTS:GATES_12.input5
+b[1] => AND_GATE_5_INPUTS:GATES_13.input5
+b[1] => AND_GATE_6_INPUTS:GATES_26.input4
+b[1] => AND_GATE_6_INPUTS:GATES_32.input5
+b[2] => AND_GATE_3_INPUTS:GATES_7.input2
+b[2] => AND_GATE_7_INPUTS:GATES_12.input4
+b[2] => AND_GATE_5_INPUTS:GATES_18.input4
+b[2] => AND_GATE_3_INPUTS:GATES_23.input3
+b[2] => AND_GATE_3_INPUTS:GATES_24.input2
+b[2] => AND_GATE:GATES_25.input1
+b[2] => AND_GATE_3_INPUTS:GATES_28.input2
+b[2] => AND_GATE_3_INPUTS:GATES_29.input3
+b[2] => AND_GATE_3_INPUTS:GATES_30.input2
+b[2] => AND_GATE_3_INPUTS:GATES_31.input3
+b[2] => AND_GATE_3_INPUTS:GATES_5.input1
+b[2] => AND_GATE_6_INPUTS:GATES_8.input4
+b[2] => AND_GATE_5_INPUTS:GATES_13.input4
+b[2] => AND_GATE_7_INPUTS:GATES_27.input4
+b[2] => AND_GATE_6_INPUTS:GATES_32.input4
+button => AND_GATE_5_INPUTS:GATES_1.input5
+button => AND_GATE_3_INPUTS:GATES_3.input3
+button => AND_GATE_3_INPUTS:GATES_4.input3
+button => AND_GATE_3_INPUTS:GATES_5.input3
+button => AND_GATE_3_INPUTS:GATES_9.input3
+button => AND_GATE_7_INPUTS:GATES_12.input7
+button => AND_GATE_3_INPUTS:GATES_16.input3
+button => AND_GATE_3_INPUTS:GATES_17.input3
+button => AND_GATE_6_INPUTS:GATES_22.input6
+button => AND_GATE_3_INPUTS:GATES_24.input3
+button => AND_GATE_3_INPUTS:GATES_28.input3
+button => AND_GATE_6_INPUTS:GATES_32.input6
+button => AND_GATE_3_INPUTS:GATES_6.input3
+button => AND_GATE_6_INPUTS:GATES_8.input6
+button => AND_GATE_3_INPUTS:GATES_11.input3
+button => AND_GATE_5_INPUTS:GATES_18.input5
+button => AND_GATE_3_INPUTS:GATES_19.input3
+button => AND_GATE_6_INPUTS:GATES_26.input6
+button => AND_GATE_7_INPUTS:GATES_27.input7
+button => AND_GATE_3_INPUTS:GATES_30.input3
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => ~NO_FANOUT~
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => ~NO_FANOUT~
+c[0] <= OR_GATE_10_INPUTS:GATES_34.result
+c[1] <= OR_GATE_11_INPUTS:GATES_33.result
+c[2] <= OR_GATE_11_INPUTS:GATES_35.result
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_5_INPUTS:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_2
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_3
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_4
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_5
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_6
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_7
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_6_INPUTS:GATES_8
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_9
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_10
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_11
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_7_INPUTS:GATES_12
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_5_INPUTS:GATES_13
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_14
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_15
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_16
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_17
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_5_INPUTS:GATES_18
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_19
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_20
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_21
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_6_INPUTS:GATES_22
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_23
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_24
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE:GATES_25
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_6_INPUTS:GATES_26
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_7_INPUTS:GATES_27
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_28
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_29
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_30
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_3_INPUTS:GATES_31
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|AND_GATE_6_INPUTS:GATES_32
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|OR_GATE_11_INPUTS:GATES_33
+input1 => result.IN0
+input10 => result.IN1
+input11 => result.IN1
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+input8 => result.IN1
+input9 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|OR_GATE_10_INPUTS:GATES_34
+input1 => result.IN0
+input10 => result.IN1
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+input8 => result.IN1
+input9 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM2:finalsm2|FSMtrans2:transitions2|OR_GATE_11_INPUTS:GATES_35
+input1 => result.IN0
+input10 => result.IN1
+input11 => result.IN1
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+input5 => result.IN1
+input6 => result.IN1
+input7 => result.IN1
+input8 => result.IN1
+input9 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1
+butt => FSMtrans:transitions1.but
+clock => ~NO_FANOUT~
+logisimClockTree0[0] => FSMtrans:transitions1.logisimClockTree0[0]
+logisimClockTree0[1] => FSMtrans:transitions1.logisimClockTree0[1]
+logisimClockTree0[2] => D_FLIPFLOP:MEMORY_2.tick
+logisimClockTree0[2] => D_FLIPFLOP:MEMORY_3.tick
+logisimClockTree0[2] => D_FLIPFLOP:MEMORY_4.tick
+logisimClockTree0[2] => FSMtrans:transitions1.logisimClockTree0[2]
+logisimClockTree0[3] => FSMtrans:transitions1.logisimClockTree0[3]
+logisimClockTree0[4] => D_FLIPFLOP:MEMORY_2.clock
+logisimClockTree0[4] => D_FLIPFLOP:MEMORY_3.clock
+logisimClockTree0[4] => D_FLIPFLOP:MEMORY_4.clock
+logisimClockTree0[4] => FSMtrans:transitions1.logisimClockTree0[4]
+reset => D_FLIPFLOP:MEMORY_2.reset
+reset => D_FLIPFLOP:MEMORY_3.preset
+reset => D_FLIPFLOP:MEMORY_4.reset
+outt[0] <= D_FLIPFLOP:MEMORY_2.q
+outt[1] <= D_FLIPFLOP:MEMORY_3.q
+outt[2] <= D_FLIPFLOP:MEMORY_4.q
+p3 <= FSMtrans:transitions1.p3
+quatr <= AND_GATE_3_INPUTS:GATES_1.result
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|AND_GATE_3_INPUTS:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|D_FLIPFLOP:MEMORY_2
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|D_FLIPFLOP:MEMORY_3
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|D_FLIPFLOP:MEMORY_4
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1
+but => AND_GATE_3_INPUTS:GATES_2.input3
+but => AND_GATE_3_INPUTS:GATES_5.input3
+but => AND_GATE_4_INPUTS:GATES_6.input4
+but => AND_GATE_3_INPUTS:GATES_9.input3
+but => AND_GATE_4_INPUTS:GATES_13.input4
+but => AND_GATE_4_INPUTS:GATES_3.input4
+but => AND_GATE_3_INPUTS:GATES_4.input3
+but => AND_GATE_4_INPUTS:GATES_7.input4
+but => AND_GATE:GATES_10.input2
+but => AND_GATE_4_INPUTS:GATES_12.input4
+c[0] => AND_GATE_3_INPUTS:GATES_1.input3
+c[0] => AND_GATE_3_INPUTS:GATES_2.input2
+c[0] => AND_GATE_3_INPUTS:GATES_4.input2
+c[0] => AND_GATE:GATES_11.input2
+c[0] => AND_GATE_4_INPUTS:GATES_12.input3
+c[0] => AND_GATE_4_INPUTS:GATES_3.input3
+c[0] => AND_GATE_4_INPUTS:GATES_6.input3
+c[0] => AND_GATE_4_INPUTS:GATES_7.input3
+c[0] => AND_GATE_3_INPUTS:GATES_8.input3
+c[0] => AND_GATE_3_INPUTS:GATES_9.input2
+c[0] => AND_GATE_4_INPUTS:GATES_13.input3
+c[1] => AND_GATE_4_INPUTS:GATES_3.input2
+c[1] => AND_GATE_3_INPUTS:GATES_5.input2
+c[1] => AND_GATE_4_INPUTS:GATES_7.input2
+c[1] => AND_GATE_3_INPUTS:GATES_9.input1
+c[1] => AND_GATE_4_INPUTS:GATES_13.input2
+c[1] => AND_GATE_3_INPUTS:GATES_1.input2
+c[1] => AND_GATE_4_INPUTS:GATES_6.input2
+c[1] => AND_GATE_3_INPUTS:GATES_8.input2
+c[1] => AND_GATE_4_INPUTS:GATES_12.input2
+c[2] => AND_GATE_4_INPUTS:GATES_6.input1
+c[2] => AND_GATE_4_INPUTS:GATES_7.input1
+c[2] => AND_GATE:GATES_10.input1
+c[2] => AND_GATE:GATES_11.input1
+c[2] => AND_GATE_4_INPUTS:GATES_13.input1
+c[2] => AND_GATE_3_INPUTS:GATES_1.input1
+c[2] => AND_GATE_3_INPUTS:GATES_2.input1
+c[2] => AND_GATE_4_INPUTS:GATES_3.input1
+c[2] => AND_GATE_3_INPUTS:GATES_4.input1
+c[2] => AND_GATE_3_INPUTS:GATES_5.input1
+c[2] => AND_GATE_3_INPUTS:GATES_8.input1
+c[2] => AND_GATE_4_INPUTS:GATES_12.input1
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => ~NO_FANOUT~
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => ~NO_FANOUT~
+D[0] <= OR_GATE_4_INPUTS:GATES_17.result
+D[1] <= OR_GATE_4_INPUTS:GATES_16.result
+D[2] <= OR_GATE_3_INPUTS:GATES_14.result
+p3 <= OR_GATE:GATES_15.result
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_3_INPUTS:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_3_INPUTS:GATES_2
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_4_INPUTS:GATES_3
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_3_INPUTS:GATES_4
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_3_INPUTS:GATES_5
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_4_INPUTS:GATES_6
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_4_INPUTS:GATES_7
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_3_INPUTS:GATES_8
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_3_INPUTS:GATES_9
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE:GATES_10
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE:GATES_11
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_4_INPUTS:GATES_12
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|AND_GATE_4_INPUTS:GATES_13
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|OR_GATE_3_INPUTS:GATES_14
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|OR_GATE:GATES_15
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|OR_GATE_4_INPUTS:GATES_16
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|FSM:finalsm1|FSMtrans:transitions1|OR_GATE_4_INPUTS:GATES_17
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+input4 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter2
+A[0] => OR_GATE:GATES_1.input2
+A[0] => OR_GATE_3_INPUTS:GATES_2.input2
+A[0] => OR_GATE:GATES_3.input2
+A[0] => AND_GATE:GATES_5.input2
+A[1] => AND_GATE:GATES_7.input2
+A[1] => g.DATAIN
+A[1] => OR_GATE_3_INPUTS:GATES_2.input1
+A[1] => AND_GATE:GATES_4.input2
+A[1] => AND_GATE:GATES_6.input2
+A[2] => OR_GATE_3_INPUTS:GATES_2.input3
+A[2] => AND_GATE:GATES_7.input1
+A[2] => OR_GATE:GATES_1.input1
+A[2] => OR_GATE:GATES_3.input1
+A[2] => AND_GATE:GATES_4.input1
+A[2] => AND_GATE:GATES_5.input1
+A[2] => AND_GATE:GATES_6.input1
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => ~NO_FANOUT~
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => ~NO_FANOUT~
+b <= <VCC>
+c <= OR_GATE_3_INPUTS:GATES_2.result
+d <= OR_GATE:GATES_3.result
+e <= OR_GATE:GATES_8.result
+f <= OR_GATE:GATES_9.result
+g <= A[1].DB_MAX_OUTPUT_PORT_TYPE
+x <= OR_GATE:GATES_1.result
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter2|OR_GATE:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter2|OR_GATE_3_INPUTS:GATES_2
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter2|OR_GATE:GATES_3
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter2|AND_GATE:GATES_4
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter2|AND_GATE:GATES_5
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter2|AND_GATE:GATES_6
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter2|AND_GATE:GATES_7
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter2|OR_GATE:GATES_8
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter2|OR_GATE:GATES_9
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter0
+A[0] => OR_GATE:GATES_1.input2
+A[0] => OR_GATE_3_INPUTS:GATES_2.input2
+A[0] => OR_GATE:GATES_3.input2
+A[0] => AND_GATE:GATES_5.input2
+A[1] => AND_GATE:GATES_7.input2
+A[1] => g.DATAIN
+A[1] => OR_GATE_3_INPUTS:GATES_2.input1
+A[1] => AND_GATE:GATES_4.input2
+A[1] => AND_GATE:GATES_6.input2
+A[2] => OR_GATE_3_INPUTS:GATES_2.input3
+A[2] => AND_GATE:GATES_7.input1
+A[2] => OR_GATE:GATES_1.input1
+A[2] => OR_GATE:GATES_3.input1
+A[2] => AND_GATE:GATES_4.input1
+A[2] => AND_GATE:GATES_5.input1
+A[2] => AND_GATE:GATES_6.input1
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => ~NO_FANOUT~
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => ~NO_FANOUT~
+b <= <VCC>
+c <= OR_GATE_3_INPUTS:GATES_2.result
+d <= OR_GATE:GATES_3.result
+e <= OR_GATE:GATES_8.result
+f <= OR_GATE:GATES_9.result
+g <= A[1].DB_MAX_OUTPUT_PORT_TYPE
+x <= OR_GATE:GATES_1.result
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter0|OR_GATE:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter0|OR_GATE_3_INPUTS:GATES_2
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter0|OR_GATE:GATES_3
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter0|AND_GATE:GATES_4
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter0|AND_GATE:GATES_5
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter0|AND_GATE:GATES_6
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter0|AND_GATE:GATES_7
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter0|OR_GATE:GATES_8
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter0|OR_GATE:GATES_9
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter
+A[0] => OR_GATE:GATES_1.input2
+A[0] => OR_GATE_3_INPUTS:GATES_2.input2
+A[0] => OR_GATE:GATES_3.input2
+A[0] => AND_GATE:GATES_5.input2
+A[1] => AND_GATE:GATES_7.input2
+A[1] => g.DATAIN
+A[1] => OR_GATE_3_INPUTS:GATES_2.input1
+A[1] => AND_GATE:GATES_4.input2
+A[1] => AND_GATE:GATES_6.input2
+A[2] => OR_GATE_3_INPUTS:GATES_2.input3
+A[2] => AND_GATE:GATES_7.input1
+A[2] => OR_GATE:GATES_1.input1
+A[2] => OR_GATE:GATES_3.input1
+A[2] => AND_GATE:GATES_4.input1
+A[2] => AND_GATE:GATES_5.input1
+A[2] => AND_GATE:GATES_6.input1
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => ~NO_FANOUT~
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => ~NO_FANOUT~
+b <= <VCC>
+c <= OR_GATE_3_INPUTS:GATES_2.result
+d <= OR_GATE:GATES_3.result
+e <= OR_GATE:GATES_8.result
+f <= OR_GATE:GATES_9.result
+g <= A[1].DB_MAX_OUTPUT_PORT_TYPE
+x <= OR_GATE:GATES_1.result
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter|OR_GATE:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter|OR_GATE_3_INPUTS:GATES_2
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter|OR_GATE:GATES_3
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter|AND_GATE:GATES_4
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter|AND_GATE:GATES_5
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter|AND_GATE:GATES_6
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter|AND_GATE:GATES_7
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter|OR_GATE:GATES_8
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|counter1:counter|OR_GATE:GATES_9
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|disp_interface:disp0i
+a_in => a_out.DATAIN
+b_in => b_out.DATAIN
+c_in => c_out.DATAIN
+d_in => d_out.DATAIN
+e_in => e_out.DATAIN
+f_in => f_out.DATAIN
+g_in => g_out.DATAIN
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => ~NO_FANOUT~
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => ~NO_FANOUT~
+p_in => p_out.DATAIN
+a_out <= a_in.DB_MAX_OUTPUT_PORT_TYPE
+b_out <= b_in.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= c_in.DB_MAX_OUTPUT_PORT_TYPE
+d_out <= d_in.DB_MAX_OUTPUT_PORT_TYPE
+e_out <= e_in.DB_MAX_OUTPUT_PORT_TYPE
+f_out <= f_in.DB_MAX_OUTPUT_PORT_TYPE
+g_out <= g_in.DB_MAX_OUTPUT_PORT_TYPE
+p_out <= p_in.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|disp_interface:disp2i
+a_in => a_out.DATAIN
+b_in => b_out.DATAIN
+c_in => c_out.DATAIN
+d_in => d_out.DATAIN
+e_in => e_out.DATAIN
+f_in => f_out.DATAIN
+g_in => g_out.DATAIN
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => ~NO_FANOUT~
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => ~NO_FANOUT~
+p_in => p_out.DATAIN
+a_out <= a_in.DB_MAX_OUTPUT_PORT_TYPE
+b_out <= b_in.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= c_in.DB_MAX_OUTPUT_PORT_TYPE
+d_out <= d_in.DB_MAX_OUTPUT_PORT_TYPE
+e_out <= e_in.DB_MAX_OUTPUT_PORT_TYPE
+f_out <= f_in.DB_MAX_OUTPUT_PORT_TYPE
+g_out <= g_in.DB_MAX_OUTPUT_PORT_TYPE
+p_out <= p_in.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|disp_interface:disp1i
+a_in => a_out.DATAIN
+b_in => b_out.DATAIN
+c_in => c_out.DATAIN
+d_in => d_out.DATAIN
+e_in => e_out.DATAIN
+f_in => f_out.DATAIN
+g_in => g_out.DATAIN
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => ~NO_FANOUT~
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => ~NO_FANOUT~
+p_in => p_out.DATAIN
+a_out <= a_in.DB_MAX_OUTPUT_PORT_TYPE
+b_out <= b_in.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= c_in.DB_MAX_OUTPUT_PORT_TYPE
+d_out <= d_in.DB_MAX_OUTPUT_PORT_TYPE
+e_out <= e_in.DB_MAX_OUTPUT_PORT_TYPE
+f_out <= f_in.DB_MAX_OUTPUT_PORT_TYPE
+g_out <= g_in.DB_MAX_OUTPUT_PORT_TYPE
+p_out <= p_in.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|butpressed:butpress
+clk => ~NO_FANOUT~
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => D_FLIPFLOP:MEMORY_3.tick
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => D_FLIPFLOP:MEMORY_3.clock
+reset0 => NOR_GATE_3_INPUTS:GATES_1.input2
+reset1 => D_FLIPFLOP:MEMORY_3.d
+set => NOR_GATE:GATES_2.input2
+outt <= NOR_GATE_3_INPUTS:GATES_1.result
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|butpressed:butpress|NOR_GATE_3_INPUTS:GATES_1
+input1 => result.IN0
+input2 => result.IN1
+input3 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|butpressed:butpress|NOR_GATE:GATES_2
+input1 => result.IN0
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|butpressed:butpress|D_FLIPFLOP:MEMORY_3
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|tFlip:tFlip_1
+clk => D_FLIPFLOP:MEMORY_1.clock
+con => XOR_GATE_ONEHOT:GATES_2.input1
+logisimClockTree0[0] => ~NO_FANOUT~
+logisimClockTree0[1] => ~NO_FANOUT~
+logisimClockTree0[2] => ~NO_FANOUT~
+logisimClockTree0[3] => ~NO_FANOUT~
+logisimClockTree0[4] => ~NO_FANOUT~
+res => D_FLIPFLOP:MEMORY_1.preset
+outtt <= D_FLIPFLOP:MEMORY_1.q
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|tFlip:tFlip_1|D_FLIPFLOP:MEMORY_1
+clock => s_currentState.CLK
+d => s_currentState.DATAIN
+preset => s_currentState.IN0
+reset => s_currentState.ACLR
+reset => s_currentState.IN1
+tick => s_currentState.ENA
+q <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+qBar <= s_currentState.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|TP34:CIRCUIT_0|tFlip:tFlip_1|XOR_GATE_ONEHOT:GATES_2
+input1 => result.IN0
+input1 => result.IN0
+input2 => result.IN1
+input2 => result.IN1
+result <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|logisimTopLevelShell|LedArrayLedDefault:array0
+internalLeds[0] => externalLeds[0].DATAIN
+internalLeds[1] => externalLeds[1].DATAIN
+internalLeds[2] => externalLeds[2].DATAIN
+internalLeds[3] => externalLeds[3].DATAIN
+internalLeds[4] => externalLeds[4].DATAIN
+internalLeds[5] => externalLeds[5].DATAIN
+internalLeds[6] => externalLeds[6].DATAIN
+internalLeds[7] => externalLeds[7].DATAIN
+internalLeds[8] => externalLeds[8].DATAIN
+internalLeds[9] => externalLeds[9].DATAIN
+internalLeds[10] => externalLeds[10].DATAIN
+internalLeds[11] => externalLeds[11].DATAIN
+internalLeds[12] => externalLeds[12].DATAIN
+internalLeds[13] => externalLeds[13].DATAIN
+internalLeds[14] => externalLeds[14].DATAIN
+internalLeds[15] => externalLeds[15].DATAIN
+internalLeds[16] => externalLeds[16].DATAIN
+internalLeds[17] => externalLeds[17].DATAIN
+internalLeds[18] => externalLeds[18].DATAIN
+internalLeds[19] => externalLeds[19].DATAIN
+internalLeds[20] => externalLeds[20].DATAIN
+internalLeds[21] => externalLeds[21].DATAIN
+internalLeds[22] => externalLeds[22].DATAIN
+internalLeds[23] => externalLeds[23].DATAIN
+internalLeds[24] => externalLeds[24].DATAIN
+internalLeds[25] => externalLeds[25].DATAIN
+internalLeds[26] => externalLeds[26].DATAIN
+internalLeds[27] => externalLeds[27].DATAIN
+internalLeds[28] => externalLeds[28].DATAIN
+internalLeds[29] => externalLeds[29].DATAIN
+internalLeds[30] => externalLeds[30].DATAIN
+internalLeds[31] => externalLeds[31].DATAIN
+internalLeds[32] => externalLeds[32].DATAIN
+internalLeds[33] => externalLeds[33].DATAIN
+internalLeds[34] => externalLeds[34].DATAIN
+internalLeds[35] => externalLeds[35].DATAIN
+internalLeds[36] => externalLeds[36].DATAIN
+internalLeds[37] => externalLeds[37].DATAIN
+internalLeds[38] => externalLeds[38].DATAIN
+internalLeds[39] => externalLeds[39].DATAIN
+internalLeds[40] => externalLeds[40].DATAIN
+internalLeds[41] => externalLeds[41].DATAIN
+internalLeds[42] => externalLeds[42].DATAIN
+internalLeds[43] => externalLeds[43].DATAIN
+internalLeds[44] => externalLeds[44].DATAIN
+internalLeds[45] => externalLeds[45].DATAIN
+internalLeds[46] => externalLeds[46].DATAIN
+internalLeds[47] => externalLeds[47].DATAIN
+internalLeds[48] => externalLeds[48].DATAIN
+internalLeds[49] => externalLeds[49].DATAIN
+internalLeds[50] => externalLeds[50].DATAIN
+internalLeds[51] => externalLeds[51].DATAIN
+internalLeds[52] => externalLeds[52].DATAIN
+internalLeds[53] => externalLeds[53].DATAIN
+internalLeds[54] => externalLeds[54].DATAIN
+internalLeds[55] => externalLeds[55].DATAIN
+internalLeds[56] => externalLeds[56].DATAIN
+internalLeds[57] => externalLeds[57].DATAIN
+internalLeds[58] => externalLeds[58].DATAIN
+internalLeds[59] => externalLeds[59].DATAIN
+internalLeds[60] => externalLeds[60].DATAIN
+internalLeds[61] => externalLeds[61].DATAIN
+internalLeds[62] => externalLeds[62].DATAIN
+internalLeds[63] => externalLeds[63].DATAIN
+internalLeds[64] => externalLeds[64].DATAIN
+internalLeds[65] => externalLeds[65].DATAIN
+internalLeds[66] => externalLeds[66].DATAIN
+internalLeds[67] => externalLeds[67].DATAIN
+internalLeds[68] => externalLeds[68].DATAIN
+internalLeds[69] => externalLeds[69].DATAIN
+internalLeds[70] => externalLeds[70].DATAIN
+internalLeds[71] => externalLeds[71].DATAIN
+internalLeds[72] => externalLeds[72].DATAIN
+internalLeds[73] => externalLeds[73].DATAIN
+internalLeds[74] => externalLeds[74].DATAIN
+internalLeds[75] => externalLeds[75].DATAIN
+internalLeds[76] => externalLeds[76].DATAIN
+internalLeds[77] => externalLeds[77].DATAIN
+internalLeds[78] => externalLeds[78].DATAIN
+internalLeds[79] => externalLeds[79].DATAIN
+internalLeds[80] => externalLeds[80].DATAIN
+internalLeds[81] => externalLeds[81].DATAIN
+internalLeds[82] => externalLeds[82].DATAIN
+internalLeds[83] => externalLeds[83].DATAIN
+internalLeds[84] => externalLeds[84].DATAIN
+internalLeds[85] => externalLeds[85].DATAIN
+internalLeds[86] => externalLeds[86].DATAIN
+internalLeds[87] => externalLeds[87].DATAIN
+internalLeds[88] => externalLeds[88].DATAIN
+internalLeds[89] => externalLeds[89].DATAIN
+internalLeds[90] => externalLeds[90].DATAIN
+internalLeds[91] => externalLeds[91].DATAIN
+internalLeds[92] => externalLeds[92].DATAIN
+internalLeds[93] => externalLeds[93].DATAIN
+internalLeds[94] => externalLeds[94].DATAIN
+internalLeds[95] => externalLeds[95].DATAIN
+internalLeds[96] => externalLeds[96].DATAIN
+internalLeds[97] => externalLeds[97].DATAIN
+internalLeds[98] => externalLeds[98].DATAIN
+internalLeds[99] => externalLeds[99].DATAIN
+internalLeds[100] => externalLeds[100].DATAIN
+internalLeds[101] => externalLeds[101].DATAIN
+internalLeds[102] => externalLeds[102].DATAIN
+internalLeds[103] => externalLeds[103].DATAIN
+internalLeds[104] => externalLeds[104].DATAIN
+internalLeds[105] => externalLeds[105].DATAIN
+internalLeds[106] => externalLeds[106].DATAIN
+internalLeds[107] => externalLeds[107].DATAIN
+externalLeds[0] <= internalLeds[0].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[1] <= internalLeds[1].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[2] <= internalLeds[2].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[3] <= internalLeds[3].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[4] <= internalLeds[4].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[5] <= internalLeds[5].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[6] <= internalLeds[6].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[7] <= internalLeds[7].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[8] <= internalLeds[8].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[9] <= internalLeds[9].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[10] <= internalLeds[10].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[11] <= internalLeds[11].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[12] <= internalLeds[12].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[13] <= internalLeds[13].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[14] <= internalLeds[14].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[15] <= internalLeds[15].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[16] <= internalLeds[16].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[17] <= internalLeds[17].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[18] <= internalLeds[18].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[19] <= internalLeds[19].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[20] <= internalLeds[20].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[21] <= internalLeds[21].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[22] <= internalLeds[22].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[23] <= internalLeds[23].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[24] <= internalLeds[24].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[25] <= internalLeds[25].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[26] <= internalLeds[26].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[27] <= internalLeds[27].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[28] <= internalLeds[28].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[29] <= internalLeds[29].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[30] <= internalLeds[30].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[31] <= internalLeds[31].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[32] <= internalLeds[32].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[33] <= internalLeds[33].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[34] <= internalLeds[34].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[35] <= internalLeds[35].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[36] <= internalLeds[36].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[37] <= internalLeds[37].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[38] <= internalLeds[38].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[39] <= internalLeds[39].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[40] <= internalLeds[40].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[41] <= internalLeds[41].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[42] <= internalLeds[42].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[43] <= internalLeds[43].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[44] <= internalLeds[44].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[45] <= internalLeds[45].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[46] <= internalLeds[46].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[47] <= internalLeds[47].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[48] <= internalLeds[48].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[49] <= internalLeds[49].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[50] <= internalLeds[50].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[51] <= internalLeds[51].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[52] <= internalLeds[52].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[53] <= internalLeds[53].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[54] <= internalLeds[54].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[55] <= internalLeds[55].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[56] <= internalLeds[56].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[57] <= internalLeds[57].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[58] <= internalLeds[58].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[59] <= internalLeds[59].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[60] <= internalLeds[60].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[61] <= internalLeds[61].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[62] <= internalLeds[62].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[63] <= internalLeds[63].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[64] <= internalLeds[64].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[65] <= internalLeds[65].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[66] <= internalLeds[66].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[67] <= internalLeds[67].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[68] <= internalLeds[68].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[69] <= internalLeds[69].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[70] <= internalLeds[70].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[71] <= internalLeds[71].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[72] <= internalLeds[72].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[73] <= internalLeds[73].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[74] <= internalLeds[74].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[75] <= internalLeds[75].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[76] <= internalLeds[76].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[77] <= internalLeds[77].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[78] <= internalLeds[78].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[79] <= internalLeds[79].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[80] <= internalLeds[80].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[81] <= internalLeds[81].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[82] <= internalLeds[82].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[83] <= internalLeds[83].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[84] <= internalLeds[84].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[85] <= internalLeds[85].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[86] <= internalLeds[86].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[87] <= internalLeds[87].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[88] <= internalLeds[88].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[89] <= internalLeds[89].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[90] <= internalLeds[90].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[91] <= internalLeds[91].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[92] <= internalLeds[92].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[93] <= internalLeds[93].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[94] <= internalLeds[94].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[95] <= internalLeds[95].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[96] <= internalLeds[96].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[97] <= internalLeds[97].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[98] <= internalLeds[98].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[99] <= internalLeds[99].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[100] <= internalLeds[100].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[101] <= internalLeds[101].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[102] <= internalLeds[102].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[103] <= internalLeds[103].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[104] <= internalLeds[104].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[105] <= internalLeds[105].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[106] <= internalLeds[106].DB_MAX_OUTPUT_PORT_TYPE
+externalLeds[107] <= internalLeds[107].DB_MAX_OUTPUT_PORT_TYPE
+
+

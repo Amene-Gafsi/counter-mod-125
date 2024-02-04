@@ -1,0 +1,129 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "externalLeds0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "externalLeds0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "externalLeds0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "externalLeds0[24]",
+					"strict" : false
+				},
+				{
+					"name" : "externalLeds0[25]",
+					"strict" : false
+				},
+				{
+					"name" : "externalLeds0[26]",
+					"strict" : false
+				},
+				{
+					"name" : "externalLeds0[48]",
+					"strict" : false
+				},
+				{
+					"name" : "externalLeds0[49]",
+					"strict" : false
+				},
+				{
+					"name" : "externalLeds0[50]",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp0_Segment_A",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp0_Segment_C",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp0_Segment_D",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp0_Segment_E",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp0_Segment_F",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp0_Segment_G",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp1_Segment_A",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp1_Segment_C",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp1_Segment_D",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp1_Segment_E",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp1_Segment_F",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp1_Segment_G",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp2_Segment_A",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp2_Segment_C",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp2_Segment_D",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp2_Segment_E",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp2_Segment_F",
+					"strict" : false
+				},
+				{
+					"name" : "n_Disp2_Segment_G",
+					"strict" : false
+				},
+				{
+					"name" : "fpgaGlobalClock",
+					"strict" : false
+				},
+				{
+					"name" : "n_reset_0",
+					"strict" : false
+				},
+				{
+					"name" : "n_But_0",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

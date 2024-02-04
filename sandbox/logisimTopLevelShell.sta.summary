@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'LogisimClockComponent:clk|s_outputRegs[0]'
+Slack : -5.533
+TNS   : -5.533
+
+Type  : Slow 1200mV 85C Model Setup 'fpgaGlobalClock'
+Slack : -2.972
+TNS   : -63.949
+
+Type  : Slow 1200mV 85C Model Hold 'fpgaGlobalClock'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'LogisimClockComponent:clk|s_outputRegs[0]'
+Slack : 0.485
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fpgaGlobalClock'
+Slack : -3.000
+TNS   : -56.532
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'LogisimClockComponent:clk|s_outputRegs[0]'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 0C Model Setup 'LogisimClockComponent:clk|s_outputRegs[0]'
+Slack : -5.158
+TNS   : -5.158
+
+Type  : Slow 1200mV 0C Model Setup 'fpgaGlobalClock'
+Slack : -2.716
+TNS   : -56.017
+
+Type  : Slow 1200mV 0C Model Hold 'fpgaGlobalClock'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'LogisimClockComponent:clk|s_outputRegs[0]'
+Slack : 0.432
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fpgaGlobalClock'
+Slack : -3.000
+TNS   : -56.532
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'LogisimClockComponent:clk|s_outputRegs[0]'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Fast 1200mV 0C Model Setup 'LogisimClockComponent:clk|s_outputRegs[0]'
+Slack : -2.163
+TNS   : -2.163
+
+Type  : Fast 1200mV 0C Model Setup 'fpgaGlobalClock'
+Slack : -0.700
+TNS   : -9.620
+
+Type  : Fast 1200mV 0C Model Hold 'fpgaGlobalClock'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'LogisimClockComponent:clk|s_outputRegs[0]'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fpgaGlobalClock'
+Slack : -3.000
+TNS   : -40.912
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'LogisimClockComponent:clk|s_outputRegs[0]'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
